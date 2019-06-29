@@ -10,8 +10,8 @@ To flask and flask_httpauth run the following in your virtual environment
 ```pip install flask_httpauth```
 
 Run the following command after installation ```localhost:5000 ``` or ```127.0.0.1``` in your browser
-# Below are the methods and their URIs run them in your terminal
-# in new terminal after running the localhost
+
+# Below are the methods and their URIs run them in new terminal after running the localhost
 
 ## 1. get_tasks()
 curl command ```curl -i http://localhost:5000/todo/api/v1.0/tasks```
